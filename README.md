@@ -16,7 +16,7 @@
 
 <h2>Social</h2>
 <div>
-  <a href="joaocarlos.losfe@gmail.com" target="_blank">
+  <a href="mailto:joaocarlos.losfe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
   
