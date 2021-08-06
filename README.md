@@ -37,3 +37,19 @@
   </a>
  
 </div>
+<br>
+<br>
+<br>
+
+<div style="display: inline-block">
+  <blockquote>
+      <img src = "https://thumbs.gfycat.com/GlossyFriendlyFantail-size_restricted.gif">
+      <br>
+      <p>Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor - Elon Musk</p>
+   </blockquote
+</div>
+
+<br>
+<br>
+
+
