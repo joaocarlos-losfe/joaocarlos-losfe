@@ -47,7 +47,7 @@
 
 <div style="display: inline-block">
   <blockquote>
-      <img src = "https://media3.giphy.com/media/ob8JmsCl7lL3L9wWul/giphy.gif">
+      <img src = "https://c.tenor.com/y9vuM_2GfO4AAAAC/sn10-starship.gif">
       <br>
       <p>"Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor" - Elon Musk</p>
    </blockquote
