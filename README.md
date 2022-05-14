@@ -3,8 +3,6 @@
 
 <h2>Tecnologias</h2>
 <div style="display: inline-block">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50">
-<img src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png" width="50" height="50">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" width="50" height="50">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" width="50" height="50">
@@ -14,6 +12,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width="50" height="50">
 </div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="50" height="50">
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50">
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50">
 </div>
 
 <h2>Social</h2>
@@ -45,7 +51,7 @@
 
 <div style="display: inline-block">
   <blockquote>
-      <img src = "https://thumbs.gfycat.com/GlossyFriendlyFantail-size_restricted.gif">
+      <img src = "https://media3.giphy.com/media/ob8JmsCl7lL3L9wWul/giphy.gif">
       <br>
       <p>"Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor" - Elon Musk</p>
    </blockquote
