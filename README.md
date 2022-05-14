@@ -1,6 +1,5 @@
 <h2> Olá, me chamo João Carlos 😉</h2>
 <p>Sou estudante de sistema de informação na UFPI e sou de Dom Expedito Lopes - PI  </p>
-<p>Adoro o ecosistema Microsoft e atualmente me dedico a aprender e aperfeiçoar meus conhecimentos na lingaugem C# e todo o seu ecosistema: WPF, WinForms, UWP, Xamarin (.NET MAUI) e Blazor Web Assembly. Estou estudando também HTML, CSS E java script. Também ja criei Aplicações em Python e é uma linguagem que adoro muito, Além da Linguagem C/C++.</p>
 
 <h2>Tecnologias</h2>
 <div style="display: inline-block">
