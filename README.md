@@ -1,5 +1,5 @@
 <h2> Olá, me chamo João Carlos 😉</h2>
-<p>Sou estudante de sistema de informação na UFPI e sou de Dom Expedito Lopes - PI  </p>
+<p>Sou estudante de sistema de informação na UFPI. Generalista em C#, XAML, WPF / UWP, SQL, GIT, Mongo DB, Mysql, Python, Nodejs, C, Javascript, HTML, CSS, Linux, Sistemas Operacionais, Mobile... </p>
 
 <h2>Tecnologias</h2>
 <div style="display: inline-block">
